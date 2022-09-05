@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_account.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.298" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_back.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_back2.xml" value="0.21" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_bag.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_cart.xml" value="0.298" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_category.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.1285" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_help.xml" value="0.2105" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_image.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_menuleft.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_minus.xml" value="0.1785" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_next.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_notifycation.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_search.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_setting.xml" value="0.2105" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_settingaccount.xml" value="0.2105" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-anydpi/ic_spinnerdow.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.154" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/background_account.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/background_edittext.xml" value="0.178" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/backgrounddialog.xml" value="0.178" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_input.xml" value="0.1285" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_input_button.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_input_search.xml" value="0.187" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_item_day.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_menu.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/custom_progress.xml" value="0.1785" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/dialog_background.xml" value="0.1785" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/headergradient.xml" value="0.18" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/round_button.xml" value="0.1785" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/drawable/splash_background.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_bank_account_picture.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_fragment_digital_wallet.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_login.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_payment_bill.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_payment_bill_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_room.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/activity_room_item.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/bottom_sheet_add_layout.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/bottom_sheet_filter_layout.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/bottom_sheet_update_layout.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/bottomsheet_room.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/bottomsheet_room_celsius.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/category_layout.xml" value="0.5" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/course_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/dialog_humidity.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/dialog_room.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment__digital_wallet.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment__other.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_account.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_bank_account.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_bank_account_bottomsheet.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_bank_account_dialog.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_bank_account_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_bublechat.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_category.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_digital_wallet.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_digital_wallet_item.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_history.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_history_spiner.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_home.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_home_imageslide.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_tranfer.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_tranfer_dialog.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/fragment_transfer_menu_item.xml" value="0.5" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/item_day.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/item_room.xml" value="0.35778985507246375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/item_room_menu.xml" value="0.3582427536231884" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/menu_layout.xml" value="0.3723958333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/layout/spineritem.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/RealmAPI/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
